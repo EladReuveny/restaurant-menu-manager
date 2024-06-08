@@ -1,0 +1,6 @@
+'s order: 
+
+    *Course type* 	 *Description* 	 *Price* 	 *Quantity* 	 *Price* 
+(1) First Course	   Item 1	 	  50.0	 	  4	 	  200.0
+
+Total price:										**200.0**
